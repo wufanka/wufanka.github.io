@@ -10,7 +10,7 @@
 
 TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
 
-**[Change Log](https://github.com/wufanka/wufanka.github.io/master/CHANGELOG.md)** | **[中文](https://github.com/wufanka/wufanka.github.io/master/README-zh.md)**
+**[Change Log](https://github.com/wufanka/wufanka.github.io/blob/master/CHANGELOG.md)** | **[中文](https://github.com/wufanka/wufanka.github.io/blob/master/README-zh.md)**
 
 ## Features
 
