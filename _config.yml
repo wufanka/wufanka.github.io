@@ -40,9 +40,9 @@ author:
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     : wussman@qq.com
-  facebook  : https://www.facebook.com/wufanka # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  facebook  : wufanka # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
-  weibo     : https://www.weibo.com/wufanka # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
+  weibo     : wufanka # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
@@ -127,11 +127,11 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : 61d8eedf065a4ad8dbd5 # GitHub Application Client ID
-    clientSecret: 48734d2bfc1b36e02d64ac6ad8c425c31f17944b # GitHub Application Client Secret
-    repository  : wufanka.github.io # GitHub repo
-    owner       : wufanka # GitHub repo owner
-    admin: wufanka # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+    clientID    : "61d8eedf065a4ad8dbd5" # GitHub Application Client ID
+    clientSecret: "48734d2bfc1b36e02d64ac6ad8c425c31f17944b" # GitHub Application Client Secret
+    repository  : "wufanka.github.io" # GitHub repo
+    owner       : "wufanka" # GitHub repo owner
+    admin: "wufanka" # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       # - your GitHub Id
 
   ## Valine
