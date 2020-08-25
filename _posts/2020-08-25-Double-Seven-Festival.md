@@ -3,7 +3,7 @@ title: 2020：乞巧节
 tags: 日记
 ---
 
-![](https://pan.qia.icu/images/2020/08/22/Qgqk7txaxN/i%E2%99%A5markdown.jpg)
+![](https://pan.qia.icu/images/2020/08/25/0aDyxWFZu7/NLZN.jpg)
 
 维天有汉，监亦有光。 跂彼织女，终日七襄。  
 虽则七襄，不成报章。 睆彼牵牛，不以服箱。  
